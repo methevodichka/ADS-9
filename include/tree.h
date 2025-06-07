@@ -5,7 +5,6 @@
 #include <memory>
 
 class PMTree {
-
  public:
   struct Node {
     char value;
